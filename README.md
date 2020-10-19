@@ -6,6 +6,12 @@ I have done a chatbot which helps to people to know the bikes with milage, colou
 
 This repositry contains code for choosing bike.
 
+
+
+
+CODE FOR CHOOSING BIKE
+
+
 import random
 
 def introduction():
